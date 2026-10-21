@@ -1,0 +1,34 @@
+packages/cli/src/handlers/composed-handler.test.ts
+  s_41df8aaa43b3c9::t_3fc0af4b1c8dab 43-44,46-48,56
+  s_41df8aaa43b3c9::t_ae1586730157bb 10,12,45,49-55
+packages/cli/src/providers/routing-rules.ts
+  s_41df8aaa43b3c9::t_3fc0af4b1c8dab 1244
+packages/cli/src/adapters/model-catalog.ts
+  s_41df8aaa43b3c9::t_3fc716d4bef373 347-348,365
+  s_41df8aaa43b3c9::t_ae1586730157bb 364
+packages/cli/src/providers/routing-rules.test.ts
+  s_41df8aaa43b3c9::t_06fbadb4992356 463-469
+packages/cli/src/handlers/composed-handler.ts
+  s_41df8aaa43b3c9::t_3fc0af4b1c8dab 285
+  s_41df8aaa43b3c9::t_ae1586730157bb 286-287
+  s_41df8aaa43b3c9::t_8c2ef04317cbdb 263
+packages/cli/src/model-catalog.test.ts
+  s_41df8aaa43b3c9::t_3fc716d4bef373 247-248
+  s_41df8aaa43b3c9::t_ae1586730157bb 245-246
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "b814e7197e9c17df5df1c999e85ea7d80c42597a",
+  "prompts": {},
+  "sessions": {
+    "s_41df8aaa43b3c9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15d60-5453-7b30-add6-70dd10c696ad",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
